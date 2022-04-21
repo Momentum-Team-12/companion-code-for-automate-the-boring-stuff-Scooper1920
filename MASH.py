@@ -24,7 +24,7 @@ print('Your job prospects are ' + ','.join(job) )
 print ('I am thinking')
 print('....')
 print('...')
-time.sleep(5)
+time.sleep(3)
 
 
 home=['house', 'flat', 'mansion', 'shack']
